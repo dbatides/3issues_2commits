@@ -9,7 +9,6 @@
 <p id="demo"></p>
 
 <script>
-document.getElementById("demo").innerHTML = typeof Infinity;
 </script>
 
 </body>
