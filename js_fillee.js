@@ -9,6 +9,7 @@
 <p id="demo"></p>
 
 <script>
+  /* no hoes here */
 </script>
 
 </body>
